@@ -1,0 +1,44 @@
+[
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Review",
+    "workflow_action_name": "Review"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Finish",
+    "workflow_action_name": "Finish"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Reject",
+    "workflow_action_name": "Reject"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Cancel",
+    "workflow_action_name": "Cancel"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Approve",
+    "workflow_action_name": "Approve"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Hold",
+    "workflow_action_name": "Hold"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Reactivate",
+    "workflow_action_name": "Reactivate"
+  }
+]

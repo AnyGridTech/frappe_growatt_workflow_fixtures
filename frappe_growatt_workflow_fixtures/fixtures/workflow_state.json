@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Active",
+    "workflow_state_name": "Active",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "Finished",
+    "workflow_state_name": "Finished",
+    "doctype": "Workflow State",
+    "style": "Success",
+    "doc_status": 0
+  },
+  {
+    "name": "Rejected",
+    "workflow_state_name": "Rejected",
+    "doctype": "Workflow State",
+    "style": "Danger",
+    "doc_status": 0
+  },
+  {
+    "name": "Cancelled",
+    "workflow_state_name": "Cancelled",
+    "doctype": "Workflow State",
+    "style": "Warning",
+    "doc_status": 0
+  },
+  {
+    "name": "Awaiting Action",
+    "workflow_state_name": "Awaiting Action",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "Revision",
+    "workflow_state_name": "Revision",
+    "doctype": "Workflow State",
+    "style": "Warning",
+    "doc_status": 0
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow State",
+    "name": "Waiting for Customer",
+    "workflow_state_name": "Waiting for Customer",
+    "style": "Warning",
+    "icon": ""
+  }
+]
