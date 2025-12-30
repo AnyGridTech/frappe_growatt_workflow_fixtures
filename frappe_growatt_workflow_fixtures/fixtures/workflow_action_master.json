@@ -64,5 +64,17 @@
     "doctype": "Workflow Action Master",
     "name": "Paralyze",
     "workflow_action_name": "Paralyze"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Move Forward",
+    "workflow_action_name": "Move Forward"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Move Backward",
+    "workflow_action_name": "Move Backward"
   }
 ]
