@@ -48,5 +48,33 @@
     "workflow_state_name": "Waiting for Customer",
     "style": "Warning",
     "icon": ""
+  },
+  {
+    "name": "Pending",
+    "workflow_state_name": "Pending",
+    "doctype": "Workflow State",
+    "style": "Warning",
+    "doc_status": 0
+  },
+  {
+    "name": "In Progress",
+    "workflow_state_name": "In Progress",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "Standby",
+    "workflow_state_name": "Standby",
+    "doctype": "Workflow State",
+    "style": "Warning",
+    "doc_status": 0
+  },
+  {
+    "name": "Solved",
+    "workflow_state_name": "Solved",
+    "doctype": "Workflow State",
+    "style": "Success",
+    "doc_status": 0
   }
 ]

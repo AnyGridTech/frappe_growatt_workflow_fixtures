@@ -40,5 +40,29 @@
     "doctype": "Workflow Action Master",
     "name": "Reactivate",
     "workflow_action_name": "Reactivate"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Attend",
+    "workflow_action_name": "Attend"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Solve",
+    "workflow_action_name": "Solve"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Reevaluate",
+    "workflow_action_name": "Reevaluate"
+  },
+  {
+    "docstatus": 0,
+    "doctype": "Workflow Action Master",
+    "name": "Paralyze",
+    "workflow_action_name": "Paralyze"
   }
 ]
