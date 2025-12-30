@@ -7,6 +7,13 @@
     "doc_status": 0
   },
   {
+    "name": "Activated",
+    "workflow_state_name": "Activated",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
     "name": "Finished",
     "workflow_state_name": "Finished",
     "doctype": "Workflow State",
@@ -75,6 +82,195 @@
     "workflow_state_name": "Solved",
     "doctype": "Workflow State",
     "style": "Success",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Technical Analysis",
+    "workflow_state_name": "[DR] Technical Analysis",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Compliance Statement",
+    "workflow_state_name": "[DR] Compliance Statement",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Tax (Inbound)",
+    "workflow_state_name": "[DR] Tax (Inbound)",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Reverse Logistics",
+    "workflow_state_name": "[DR] Reverse Logistics",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Received by Growatt",
+    "workflow_state_name": "[DR] Received by Growatt",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Stock",
+    "workflow_state_name": "[DR] Stock",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Laboratory",
+    "workflow_state_name": "[DR] Laboratory",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Inventory Picking",
+    "workflow_state_name": "[DR] Inventory Picking",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Dispatch Packing",
+    "workflow_state_name": "[DR] Dispatch Packing",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Tax (Outbound)",
+    "workflow_state_name": "[DR] Tax (Outbound)",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Dispatch Logistics",
+    "workflow_state_name": "[DR] Dispatch Logistics",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Received by Customer",
+    "workflow_state_name": "[DR] Received by Customer",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[DR] Recurrence",
+    "workflow_state_name": "[DR] Recurrence",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Technical Analysis",
+    "workflow_state_name": "[AR] Technical Analysis",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Compliance Statement",
+    "workflow_state_name": "[AR] Compliance Statement",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Inventory Picking",
+    "workflow_state_name": "[AR] Inventory Picking",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Dispatch Packing",
+    "workflow_state_name": "[AR] Dispatch Packing",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Tax (Outbound)",
+    "workflow_state_name": "[AR] Tax (Outbound)",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Dispatch Logistics",
+    "workflow_state_name": "[AR] Dispatch Logistics",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Received by Customer",
+    "workflow_state_name": "[AR] Received by Customer",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Tax (Inbound)",
+    "workflow_state_name": "[AR] Tax (Inbound)",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Reverse Logistics",
+    "workflow_state_name": "[AR] Reverse Logistics",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Received by Growatt",
+    "workflow_state_name": "[AR] Received by Growatt",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Laboratory",
+    "workflow_state_name": "[AR] Laboratory",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Stock",
+    "workflow_state_name": "[AR] Stock",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Stock Packing",
+    "workflow_state_name": "[AR] Stock Packing",
+    "doctype": "Workflow State",
+    "style": "Primary",
+    "doc_status": 0
+  },
+  {
+    "name": "[AR] Recurrence",
+    "workflow_state_name": "[AR] Recurrence",
+    "doctype": "Workflow State",
+    "style": "Primary",
     "doc_status": 0
   }
 ]
